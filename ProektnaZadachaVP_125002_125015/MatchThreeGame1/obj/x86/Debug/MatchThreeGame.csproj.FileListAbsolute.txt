@@ -1,0 +1,7 @@
+C:\Users\Aleksandra\AppData\Local\Temporary Projects\MatchThreeGame\bin\Debug\MatchThreeGame.exe
+C:\Users\Aleksandra\AppData\Local\Temporary Projects\MatchThreeGame\bin\Debug\MatchThreeGame.pdb
+C:\Users\Aleksandra\AppData\Local\Temporary Projects\MatchThreeGame\obj\x86\Debug\MatchThreeGame.Form1.resources
+C:\Users\Aleksandra\AppData\Local\Temporary Projects\MatchThreeGame\obj\x86\Debug\MatchThreeGame.Properties.Resources.resources
+C:\Users\Aleksandra\AppData\Local\Temporary Projects\MatchThreeGame\obj\x86\Debug\MatchThreeGame.csproj.GenerateResource.Cache
+C:\Users\Aleksandra\AppData\Local\Temporary Projects\MatchThreeGame\obj\x86\Debug\MatchThreeGame.exe
+C:\Users\Aleksandra\AppData\Local\Temporary Projects\MatchThreeGame\obj\x86\Debug\MatchThreeGame.pdb
